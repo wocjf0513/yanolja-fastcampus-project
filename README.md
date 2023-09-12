@@ -17,5 +17,5 @@
 | ---- | ----------------- | ------------- | ---------------------------------------------- | -------|
 | 1    | 23.08.18~08.23    | 개인 프로젝트 | 위치기반 장소 검색 Java 애플리케이션 개발      | [장소 검색 애플리케이션 페이지](https://github.com/wocjf0513/yanolja-fastcampus-project/blob/main/KDT_Y_BE_Java_Assignment1/README.md) |
 | 2    | 23.08.25~23.08.30 | 개인 프로젝트 | 책 검색 및 데이터베이스 Java 애플리케이션 개발 | [책 검색 어플리케이션 페이지](https://github.com/wocjf0513/yanolja-fastcampus-project/blob/main/KDT_Y_BE_Java_Assignment2/README.md)|
-| 3    |                   |               |                                                ||
+| 3    | 23.09.04~23.09.08 | 토이 프로젝트 | 여행, 여정 기록 Java Application (데이터 <-> Csv, Json) |[여행 기록 어플리케이션 페이지](./KDT_Y_BE_Toy_Project1/README.md)|
 
